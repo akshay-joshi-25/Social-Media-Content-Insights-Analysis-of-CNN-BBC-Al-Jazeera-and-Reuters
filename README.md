@@ -55,7 +55,7 @@ The four outlets occupy genuinely distinct editorial niches on Facebook during t
 
 ### Facebook Content Performance by Channel — Al Jazeera, BBC, CNN & Reuters (Jan 1–Mar 15, 2024).
 
-<img width="1109" height="275" alt="image" src="https://github.com/user-attachments/assets/cdeb2dba-eb30-4098-a7fd-1185dc3cfc62" />
+<img width="1109" height="275" alt="image" src="https://github.com/user-attachments/assets/aab2b18a-9172-47db-a2c5-3d0d8744c254" />
 
 The above table compares Facebook performance across four news outlets using total engagement and engagement per post.
 
