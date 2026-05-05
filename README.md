@@ -21,7 +21,7 @@ You can access the dataset by clicking [here](https://www.kaggle.com/datasets/ka
 
 # 📈 **Content Insights Analysis**
 
-## Facebook Posts by Topic — Al Jazeera, BBC, CNN & Reuters (Jan 1–Mar 15, 2024)
+### Facebook Posts by Topic — Al Jazeera, BBC, CNN & Reuters (Jan 1–Mar 15, 2024)
 
 <img width="1271" height="699" alt="image" src="https://github.com/user-attachments/assets/dddefba5-1439-4655-b6c9-e3c398341525" />
 
