@@ -59,9 +59,9 @@ The four outlets occupy genuinely distinct editorial niches on Facebook during t
 
 The above table compares Facebook performance across four news outlets using total engagement and engagement per post.
 
-#### **Key insights**
+**Key insights**
 
-**1. BBC News leads in total engagement (scale advantage)**
+**BBC News leads in total engagement (scale advantage)**
 
 * Achieves the **highest engagement score (1.31M)**, driven by:
 
@@ -69,24 +69,24 @@ The above table compares Facebook performance across four news outlets using tot
   * Consistently high posting volume (**1,000 posts**)
 * Strong performance across likes, comments, and shares suggests **broad and consistent audience interaction at scale**
 
-**2. CNN delivers the most engaging content per post (efficiency leader)**
+**CNN delivers the most engaging content per post (efficiency leader)**
 
 * Records the **highest engagement per post (1,535)** despite posting less (**753 posts**)
 * Particularly strong in **comments**, indicating more discussion-driven or provocative content
 * Suggests **higher content quality or relevance per post**, even with a smaller audience than BBC
 
-**3. Al Jazeera punches above its weight (high relative performance)**
+**Al Jazeera punches above its weight (high relative performance)**
 
 * Generates **1.21M total engagement** with only **14M followers**, far fewer than BBC or CNN
 * Maintains solid engagement per post (**1,235**)
 * Indicates **strong audience connection and efficient content strategy relative to its size**
 
-**4. Reuters underperforms across all metrics**
+**Reuters underperforms across all metrics**
 
 * Lowest **total engagement (149K)** and **engagement per post (150)** despite posting frequently (**1,000 posts**)
 * Significantly lower likes, comments, and shares suggest **weaker audience resonance or less engaging content format**
 
-### Final takeaway
+**Key takeaway**
 
 * **BBC News dominates in overall reach and total engagement** due to scale
 * **CNN leads in content effectiveness**, maximizing engagement per post
