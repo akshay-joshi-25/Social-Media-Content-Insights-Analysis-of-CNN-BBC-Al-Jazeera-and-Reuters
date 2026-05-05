@@ -52,3 +52,44 @@ The contrast on Gaza coverage is the most analytically striking finding in the c
 **Key takeaway**
 
 The four outlets occupy genuinely distinct editorial niches on Facebook during this period. Al Jazeera is the Gaza conflict outlet. BBC is the broad-audience lifestyle and domestic news outlet. CNN is the balanced but US-leaning curated news outlet. Reuters is the geographically diverse global wire service. Volume is similar, but what they choose to amplify on social media reveals deep differences in editorial identity, audience targeting, and geographic perspective.
+
+### Facebook Content Performance by Channel — Al Jazeera, BBC, CNN & Reuters (Jan 1–Mar 15, 2024).
+
+<img width="1109" height="275" alt="image" src="https://github.com/user-attachments/assets/cdeb2dba-eb30-4098-a7fd-1185dc3cfc62" />
+
+The above table compares Facebook performance across four news outlets using total engagement and engagement per post.
+
+### Key insights
+
+**1. BBC News leads in total engagement**
+
+* Highest overall **engagement score (1.31M)** driven by:
+
+  * Largest follower base (**61M**)
+  * High volume of posts (**1,000**)
+* Strong across all engagement metrics (likes, comments, shares)
+
+**2. CNN is the most efficient performer**
+
+* Highest **engagement per post (1,535)** despite fewer posts (**753**)
+* Indicates **more engaging content on a per-post basis**, especially with high comments
+
+**3. Al Jazeera shows balanced performance**
+
+* Solid engagement (**1.21M total**) with fewer followers (**14M**)
+* Performs well relative to its audience size → **efficient reach**
+
+**4. Reuters significantly underperforms**
+
+* Lowest in both:
+
+  * **Total engagement (149K)**
+  * **Engagement per post (150)**
+* Suggests weaker audience interaction despite similar posting volume
+
+### Key takeaway
+
+* **BBC News dominates scale (total engagement)**
+* **CNN leads in content effectiveness (engagement per post)**
+* **Al Jazeera punches above its weight**
+* **Reuters lags significantly in audience engagement**
