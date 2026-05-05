@@ -19,7 +19,7 @@ You can access the dataset by clicking [here](https://www.kaggle.com/datasets/ka
 - **Python** was used to categorize each Facebook post for analysis.
 - **Excel** was used for data visualization and exploratory data analysis.
 
-# 📈 **Exploratory Data Analysis**
+# 📈 **Content Insights Analysis**
 
 ## Facebook Posts by Topic — Al Jazeera, BBC, CNN & Reuters (Jan 1–Mar 15, 2024)
 
