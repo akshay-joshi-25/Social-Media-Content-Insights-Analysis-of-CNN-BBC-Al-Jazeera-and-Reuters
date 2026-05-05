@@ -59,37 +59,37 @@ The four outlets occupy genuinely distinct editorial niches on Facebook during t
 
 The above table compares Facebook performance across four news outlets using total engagement and engagement per post.
 
-### Key insights
+#### **Key insights**
 
-**1. BBC News leads in total engagement**
+**1. BBC News leads in total engagement (scale advantage)**
 
-* Highest overall **engagement score (1.31M)** driven by:
+* Achieves the **highest engagement score (1.31M)**, driven by:
 
-  * Largest follower base (**61M**)
-  * High volume of posts (**1,000**)
-* Strong across all engagement metrics (likes, comments, shares)
+  * The **largest follower base (61M)**
+  * Consistently high posting volume (**1,000 posts**)
+* Strong performance across likes, comments, and shares suggests **broad and consistent audience interaction at scale**
 
-**2. CNN is the most efficient performer**
+**2. CNN delivers the most engaging content per post (efficiency leader)**
 
-* Highest **engagement per post (1,535)** despite fewer posts (**753**)
-* Indicates **more engaging content on a per-post basis**, especially with high comments
+* Records the **highest engagement per post (1,535)** despite posting less (**753 posts**)
+* Particularly strong in **comments**, indicating more discussion-driven or provocative content
+* Suggests **higher content quality or relevance per post**, even with a smaller audience than BBC
 
-**3. Al Jazeera shows balanced performance**
+**3. Al Jazeera punches above its weight (high relative performance)**
 
-* Solid engagement (**1.21M total**) with fewer followers (**14M**)
-* Performs well relative to its audience size → **efficient reach**
+* Generates **1.21M total engagement** with only **14M followers**, far fewer than BBC or CNN
+* Maintains solid engagement per post (**1,235**)
+* Indicates **strong audience connection and efficient content strategy relative to its size**
 
-**4. Reuters significantly underperforms**
+**4. Reuters underperforms across all metrics**
 
-* Lowest in both:
+* Lowest **total engagement (149K)** and **engagement per post (150)** despite posting frequently (**1,000 posts**)
+* Significantly lower likes, comments, and shares suggest **weaker audience resonance or less engaging content format**
 
-  * **Total engagement (149K)**
-  * **Engagement per post (150)**
-* Suggests weaker audience interaction despite similar posting volume
+### Final takeaway
 
-### Key takeaway
+* **BBC News dominates in overall reach and total engagement** due to scale
+* **CNN leads in content effectiveness**, maximizing engagement per post
+* **Al Jazeera performs efficiently relative to its smaller audience**
+* **Reuters lags considerably**, indicating an opportunity to improve content strategy or audience engagement approach
 
-* **BBC News dominates scale (total engagement)**
-* **CNN leads in content effectiveness (engagement per post)**
-* **Al Jazeera punches above its weight**
-* **Reuters lags significantly in audience engagement**
