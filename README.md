@@ -25,33 +25,59 @@ You can access the dataset by clicking [here](https://www.kaggle.com/datasets/ka
 
 <img width="1271" height="699" alt="image" src="https://github.com/user-attachments/assets/dddefba5-1439-4655-b6c9-e3c398341525" />
 
-**Overall posting volume**
+**Overall Posting Volume**
 
-All four outlets posted at broadly similar volumes over the period — BBC News and Reuters lead at 1,000 posts each, Al Jazeera follows at 981, and CNN is the most restrained at 753 posts. The similarity in total volume is notable given how differently they allocate their coverage across topics.
+* Posting volume is relatively consistent across outlets:
 
-**Al Jazeera — the Gaza-first outlet**
+  * **BBC News & Reuters**: ~1,000 posts each
+  * **Al Jazeera**: 981 posts
+  * **CNN**: 753 posts (lowest, more selective)
+* Despite similar output levels, there are **significant differences in how content is distributed across topics**, indicating distinct editorial strategies rather than volume-driven differences.
 
-Al Jazeera's bar is visually dominated by a massive red block representing Israel-Palestine Conflict coverage, which accounts for roughly 52–55% of all its Facebook posts during this period. No other outlet comes close to this level of single-topic concentration. This reflects Al Jazeera's editorial identity as the primary English-language voice of the Arab world during the Gaza conflict, and its strategic decision to make the war its defining coverage priority on social media.
+**Outlet-Level Insights**
 
-**BBC News — the "Other" enigma**
+**Al Jazeera — Highly conflict-focused**
 
-BBC's bar is strikingly dominated by grey — the "Other" category — which accounts for roughly 55–60% of all its posts. This is the largest single block across any outlet on any topic. This almost certainly reflects BBC's broad, domestically-oriented social media content — short-form human interest stories, UK lifestyle pieces, quirky features, and entertainment content that didn't fit neatly into the geopolitical and topic categories applied. BBC's Facebook strategy appears to prioritise broad audience engagement over hard news topics, which explains why it posts a high volume but with diffuse, difficult-to-categorise content. Arts, Culture & Society (yellow) is also visibly present, reinforcing this pattern.
+* ~**52–55%** of content dedicated to the **Israel–Palestine conflict**
+* By far the **highest single-topic concentration** among all outlets
+* Demonstrates a **clear editorial priority and thematic focus**, positioning itself strongly around geopolitical conflict coverage, particularly Gaza.
 
-**CNN — the most balanced and US-centric mix**
+**BBC News — Broad, general-interest strategy**
 
-CNN shows the most visually diverse bar of any outlet — no single colour overwhelms the chart. Arts, Culture & Society (yellow) takes a visible share, alongside US Politics & Elections (brown), Israel-Palestine (red), and a genuine spread across other topics. CNN's relatively lower total volume (753 posts) combined with its broader topic spread suggests a more curated, selective posting strategy rather than volume-driven output. The relatively prominent yellow (Arts & Culture) block is consistent with CNN's well-known entertainment and lifestyle coverage stream on social media.
+* ~**55–60%** of posts fall under **“Other”**, the largest category across all outlets
+* Likely includes **lifestyle, human interest, entertainment, and UK-focused domestic content**
+* Indicates a strategy focused on **maximizing mass engagement and accessibility**, rather than specializing in hard news topics
+* Additional presence in **Arts, Culture & Society** reinforces this pattern
 
-**Reuters — the geopolitics-heavy wire service**
+**CNN — Balanced and curated content mix**
 
-Reuters shows a distinctly different profile from the others. The bar is split between a prominent magenta/pink block (Technology), a large blue block (Europe), a visible cyan (Asia & Pacific), yellow (Arts, Culture & Society), and brown (US Politics). Notably, Israel-Palestine (red) is visible but proportionally smaller than Al Jazeera — more in line with wire service neutrality. Reuters' broad geographic distribution across Europe, Asia, Latin America and the Middle East reflects its role as a global wire service covering institutional and economic events across all regions rather than concentrating on any single conflict or region.
+* Displays the **most even distribution across topics**, with no single dominant category
+* Covers a mix of **US politics, international conflicts, and arts/culture**
+* Lower posting volume (**753 posts**) suggests a **more selective, quality-over-quantity approach**
+* Strong engagement in commentary-heavy areas (e.g., politics) aligns with its audience profile
 
-**Cross-outlet comparison on Israel-Palestine**
+**Reuters — Globally distributed, topic-diverse**
 
-The contrast on Gaza coverage is the most analytically striking finding in the chart. Al Jazeera devotes over half its posts to the conflict. Reuters and CNN give it a visible but proportionally modest share. BBC gives it one of the smallest shares of the four outlets. This reflects fundamentally different editorial perspectives — Al Jazeera as a conflict-centred advocacy-adjacent outlet, BBC as a domestically-diversified public broadcaster, CNN as a commercially-driven US audience-first network, and Reuters as a neutral multi-topic wire service.
+* Coverage spread across **multiple regions (Europe, Asia, US, etc.) and themes (technology, politics, culture)**
+* Less emphasis on any single topic, including Israel–Palestine
+* Reflects its role as a **neutral, global wire service**, prioritizing **breadth and geographic balance** over depth in any one issue
 
-**Key takeaway**
+**Israel–Palestine Coverage Comparison**
 
-The four outlets occupy genuinely distinct editorial niches on Facebook during this period. Al Jazeera is the Gaza conflict outlet. BBC is the broad-audience lifestyle and domestic news outlet. CNN is the balanced but US-leaning curated news outlet. Reuters is the geographically diverse global wire service. Volume is similar, but what they choose to amplify on social media reveals deep differences in editorial identity, audience targeting, and geographic perspective.
+* **Al Jazeera**: Dominant focus (**>50% of posts**)
+* **CNN & Reuters**: Moderate, proportionate coverage
+* **BBC News**: Relatively minimal emphasis
+* This contrast highlights **fundamentally different editorial priorities**, from conflict-centric to broadly diversified strategies
+
+**Key Takeaway**
+
+* While posting volume is similar, **content strategy and editorial focus vary significantly**:
+
+  * **Al Jazeera** → Deep, conflict-driven coverage
+  * **BBC News** → Broad, lifestyle and general-interest content
+  * **CNN** → Balanced, curated mix with US emphasis
+  * **Reuters** → Globally diverse, multi-topic reporting
+* These differences reflect **distinct audience targeting, editorial identity, and positioning on social media**
 
 ### Facebook Content Performance by Channel — Al Jazeera, BBC, CNN & Reuters (Jan 1–Mar 15, 2024).
 
