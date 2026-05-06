@@ -157,4 +157,9 @@ The above table compares Facebook performance across four news outlets using tot
 * **CNN leads in content effectiveness**, maximizing engagement per post
 * **Al Jazeera performs efficiently relative to its smaller audience**
 * **Reuters lags considerably**, indicating an opportunity to improve content strategy or audience engagement approach
+* **A larger audience does not guarantee higher content engagement**
+  
+  * CNN’s engagement per post is **17% higher** than that of BBC News, despite having significantly fewer Facebook followers.
+  * Al Jazeera’s engagement per post reaches **94% of BBC News’ level**, despite having only **one-fifth of its Facebook followers**.
+
 
