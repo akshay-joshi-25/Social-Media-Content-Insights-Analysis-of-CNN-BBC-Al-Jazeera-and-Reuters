@@ -111,6 +111,15 @@ Upon implementing this methodology, I effectively segregated all Facebook posts 
 
 ### Facebook Content Performance by Channel — Al Jazeera, BBC, CNN & Reuters (Jan 1–Mar 15, 2024).
 
+Note: While the original dataset provided data on the number of likes, comments, and shares each Facebook post received, not all interactions are equal.
+- **Likes** indicate a relatively low-effort approval.
+- **Comments** suggest a deeper interest or emotional response.
+- **Shares** reflect a high engagement value as people are not only endorsing the content but also disseminating it.
+
+Therefore, instead of relying on just one of the above metrics for Content Insights Analytics, I created a new metric called **Engagement Score** and used it as the North Star Metric of my analysis.
+
+**Engagement Score** = Likes + (Comments x 1.5) + (Shares x 2)
+
 <img width="1110" height="275" alt="image" src="https://github.com/user-attachments/assets/b36f7ea5-0cbb-4964-bd0a-b633c5515291" />
 
 The above table compares Facebook performance across four news outlets using total engagement and engagement per post.
