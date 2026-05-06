@@ -209,4 +209,4 @@ The above table compares Facebook performance across four news outlets using tot
 
 **Recommendation**
 
-*To shape content strategy and boost engagement, I strongly recommend prioritizing emotionally resonant content over simply increasing posting volume on social media. Content (Quality) outweighs Volume (Quantity).*
+To shape content strategy and boost engagement, I strongly recommend prioritizing emotionally resonant content over simply increasing posting volume on social media. **Content (Quality) outweighs Volume (Quantity).**
