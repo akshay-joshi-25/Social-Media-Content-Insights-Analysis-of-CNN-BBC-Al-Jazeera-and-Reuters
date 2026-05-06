@@ -1,4 +1,4 @@
-# 📊 Social Media Content Insights Analysis of Leading News Channels
+# 📊 Facebook Content Insights Analysis of Leading News Channels
 
 The objective of this project is to analyze and compare the content strategies of Al Jazeera, BBC News, CNN, and Reuters, in order to identify which types of content drive the highest engagement and uncover actionable insights for optimizing news content performance.
 
