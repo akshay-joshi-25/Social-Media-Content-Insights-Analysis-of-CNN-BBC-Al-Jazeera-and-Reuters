@@ -49,6 +49,8 @@ Because the dataset did not contain any categorical variables, any kind of cohor
 
 Upon implementing this methodology, I effectively segregated all Facebook posts of Al Jazeera, CNN, BBC News, and Reuters into 18 different categories.
 
+You can access the Python code used for content categorization by clicking [here](https://github.com/akshay-joshi-25/Social-Media-Content-Insights-Analysis-of-CNN-BBC-Al-Jazeera-and-Reuters/blob/main/Categorization.ipynb)
+
 # 📈 **Content Insights Analysis**
 
 ### Facebook Posts by Topic — Al Jazeera, BBC, CNN & Reuters (Jan 1–Mar 15, 2024)
