@@ -162,4 +162,49 @@ The above table compares Facebook performance across four news outlets using tot
   * CNN’s engagement per post is **17% higher** than that of BBC News, despite having significantly fewer Facebook followers.
   * Al Jazeera’s engagement per post reaches **94% of BBC News’ level**, despite having only **one-fifth of its Facebook followers**.
 
+### Engagement Score by Topic — Al Jazeera, BBC, CNN & Reuters (Jan 1–Mar 15, 2024)
 
+<img width="1276" height="633" alt="image" src="https://github.com/user-attachments/assets/18ea2dd0-56d3-4466-ae33-0cc6bdfd741c" />
+
+**Al Jazeera — Conflict as the Core Engagement Driver**
+
+* ~**1.21M total engagement**, heavily concentrated in **Israel–Palestine content**
+* Conflict accounts for **~74% of total engagement**, vs. ~52% of posts
+* Indicates **significantly higher engagement per post** for Gaza-related content
+* Demonstrates strong alignment between **editorial focus and audience interest**
+* Conflict coverage generates **disproportionate emotional reactions**, amplifying engagement
+
+**BBC News — Scale Combined with Cultural Resonance**
+
+* Highest overall engagement: **1.31M**
+* **“Other” category** remains dominant, reflecting broad, general-interest content
+* However, **Arts, Culture & Society** clearly **over-indexes on engagement relative to volume**
+* Suggests BBC’s **lifestyle, entertainment, and human-interest content drives strong interaction**
+* Strategy balances **mass reach with high-performing niche content**
+
+**CNN — Entertainment Drives Engagement**
+
+* ~**1.16M total engagement** with a **more balanced posting strategy**
+* **US Politics & Elections** accounts for **24% of total engagement**, the largest share, followed by **Arts & Culture** (21%) and the **Other** category (20%).
+* Indicates that CNN’s audience engages more with **entertainment, cultural, and U.S. election–related content than with war- or conflict-related content**.
+* Reflects a **curated strategy where select topics generate outsized impact**
+
+**Reuters — Minimal Engagement Despite High Volume**
+
+* ~**120K total engagement**, vs. ~**1.1M–1.35M** for other outlets
+* Posts at a **similar volume (1K posts)** but generates **<10% of peer engagement**
+* Indicates a **significant gap between content output and audience interaction**
+* Likely because Reuters’ **neutral content and fact-driven reporting style**, is less polarizing and conversley, less engaging on social media
+* Suggests Facebook is used primarily as a **distribution channel rather than an engagement platform**
+
+**Key Takeaway**
+
+* **Engagement is driven by topic resonance, not content volume**
+* **Al Jazeera** → Leads through conflict-driven engagement
+* **BBC** → Wins on scale with strong lifestyle content performance
+* **CNN** → Most engagement comes from entertainment, culture, and U.S. election based content
+* **Reuters** → Lowest engagement despite similar volume as its content is more neutral and doesn't strike a chord with the masses
+
+**Recommendation**
+
+**To shape content strategy and boost engagement, I strongly recommend prioritizing emotionally resonant content over simply increasing posting volume on social media. Content (Quality) outweighs Volume (Quantity).**
