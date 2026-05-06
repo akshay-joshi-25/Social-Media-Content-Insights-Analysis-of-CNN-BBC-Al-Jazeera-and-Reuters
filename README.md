@@ -143,7 +143,7 @@ The above table compares Facebook performance across four news outlets using tot
 **Al Jazeera punches above its weight (high relative performance)**
 
 * Generates **1.21M total engagement** with only **14M followers**, far fewer than BBC or CNN
-* Maintains solid engagement per post (**1,24K**)
+* Maintains solid engagement per post (**1.24K**)
 * Indicates **strong audience connection and efficient content strategy relative to its size**
 
 **Reuters underperforms across all metrics**
