@@ -19,6 +19,36 @@ You can access the dataset by clicking [here](https://www.kaggle.com/datasets/ka
 - **Python** was used to categorize each Facebook post for analysis.
 - **Excel** was used for data visualization and exploratory data analysis.
 
+# 🧾 **Categorization of the Dataset**
+
+The dataset used for this project originally contained only four columns:
+- **text** - Title of the Facebook post.
+- **likes** - Number of people who liked the Facebook post.
+- **comments** - Number of comments on the Facebook post.
+- **shares** - Number of times the Facebook post was shared.
+
+Because the dataset did not contain any categorical variables, any kind of cohort analysis or content insights analysis was impossible. To address this issue, I wrote a Python code to create another column that categorized each Facebook post based on the keywords present in the title of the post. For instance, Facebook posts containing words such as:
+- 'Israel', 'Palestine', 'Gaza', etc. were categorized as **Israel-Palestine Conflict** posts.
+- 'Russia', 'Ukraine', 'Putin', etc. were categorized as **Russia-Ukraine War** posts.
+- 'Trump', 'Biden', 'US Election', etc. were categorized as **US Politics and Elections** posts.
+- 'Oscar', 'Grammy', 'BAFTA', etc. were categorized as **Arts, Culture & Society** posts.
+- 'Cricket', 'Football', 'Olympics', etc. were categorized as **Sports** posts.
+- 'Climate', 'Emissions', 'Global Warming', etc. were categorized as **Climate & Environment** posts.
+- 'COVID', 'Pandemic', 'Vaccine', etc. were categorized as **Health** posts.
+- 'AI', 'Machine Learning', 'Robot', etc. were categorized as **Technology** posts.
+- 'Iran', 'Iraq', 'Saudi', etc. were categorized as **Middle East & North Africa** posts.
+- 'Nigeria', 'Kenya', 'Ethiopia', etc. were categorized as **Africa** posts.
+- 'Brazil', 'Mexico', 'Venezuela', etc. were categorized as **Latin America** posts.
+- 'EU', 'Germany', 'France', etc. were categorized as **Europe** posts.
+- 'India', 'China', 'Australia', etc. were categorized as **Asia & Pacific** posts.
+- 'Human Rights', 'Discrimination', 'LGBTQ', etc. were categorized as **Human Rights & Social Issues** posts.
+- 'Economy', 'GDP', 'Investment', etc. were categorized as **Economy & Business** posts.
+- 'Humanitarian', 'Famine', 'WFP', etc. were categorized as **Humanitarian Crisis & Aid** posts.
+- 'Verdict', 'Guilty', 'Police', etc. were categorized as **Crime & Justice** posts.
+- The rest were categorized as **Other** posts.
+
+Upon implementing this methodology, I effectively segregated all Facebook posts of Al Jazeera, CNN, BBC News, and Reuters into 18 different categories.
+
 # 📈 **Content Insights Analysis**
 
 ### Facebook Posts by Topic — Al Jazeera, BBC, CNN & Reuters (Jan 1–Mar 15, 2024)
