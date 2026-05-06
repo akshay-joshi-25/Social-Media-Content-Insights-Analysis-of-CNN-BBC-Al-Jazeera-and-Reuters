@@ -131,24 +131,24 @@ The above table compares Facebook performance across four news outlets using tot
 * Achieves the **highest engagement score (1.31M)**, driven by:
 
   * The **largest follower base (61M)**
-  * Consistently high posting volume (**1,000 posts**)
+  * Consistently high posting volume (**1K posts**)
 * Strong performance across likes, comments, and shares suggests **broad and consistent audience interaction at scale**
 
 **CNN delivers the most engaging content per post (efficiency leader)**
 
-* Records the **highest engagement per post (1,535)** despite posting less (**753 posts**)
+* Records the **highest engagement per post (1.54K)** despite posting less (**753 posts**)
 * Particularly strong in **comments**, indicating more discussion-driven or provocative content
 * Suggests **higher content quality or relevance per post**, even with a smaller audience than BBC
 
 **Al Jazeera punches above its weight (high relative performance)**
 
 * Generates **1.21M total engagement** with only **14M followers**, far fewer than BBC or CNN
-* Maintains solid engagement per post (**1,235**)
+* Maintains solid engagement per post (**1,24K**)
 * Indicates **strong audience connection and efficient content strategy relative to its size**
 
 **Reuters underperforms across all metrics**
 
-* Lowest **total engagement (149K)** and **engagement per post (150)** despite posting frequently (**1,000 posts**)
+* Lowest **total engagement (149K)** and **engagement per post (150)** despite posting frequently (**1K posts**)
 * Significantly lower likes, comments, and shares suggest **weaker audience resonance or less engaging content format**
 
 **Key takeaway**
