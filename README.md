@@ -111,7 +111,7 @@ Upon implementing this methodology, I effectively segregated all Facebook posts 
 
 ### Facebook Content Performance by Channel — Al Jazeera, BBC, CNN & Reuters (Jan 1–Mar 15, 2024).
 
-<img width="1109" height="275" alt="image" src="https://github.com/user-attachments/assets/aab2b18a-9172-47db-a2c5-3d0d8744c254" />
+<img width="1110" height="275" alt="image" src="https://github.com/user-attachments/assets/b36f7ea5-0cbb-4964-bd0a-b633c5515291" />
 
 The above table compares Facebook performance across four news outlets using total engagement and engagement per post.
 
