@@ -213,7 +213,7 @@ The above table compares Facebook performance across four news outlets using tot
 
 **Recommendation #1**
 
-To shape content strategy and boost engagement, I strongly recommend prioritizing emotionally resonant content over simply increasing posting volume on social media. **Content (Quality) outweighs Volume (Quantity).**
+To shape content strategy, I strongly recommend prioritizing content that will emotionally resonate with the audience as opposed to simply increasing posting volume on social media. **Content (Quality) outweighs Volume (Quantity).**
 
 ### Top Performing Topics across all Four News Channels by Engagement Score
 
@@ -266,4 +266,9 @@ To shape content strategy and boost engagement, I strongly recommend prioritizin
 
 * Audience engagement is driven more by **emotionally charged and culturally relevant topics** than by publishing frequency alone.
 * Conflict coverage, arts & culture, and political content generate disproportionately high interaction, while informational or region-focused topics tend to underperform relative to posting volume.
-* The chart suggests that **content quality, emotional relevance, and audience resonance matter more than sheer posting quantity in driving engagement**.
+
+**Recommendation #2**
+
+To boost content engagement on social media, I would recommend prioritizing two types of content:
+ * **Conflict driven content** since numbers prove that controversy creates cash.
+ * **Lifestyle, entertainment, and human focused content** (i.e., Arts, Culture, & Society) since they tend to be culturally relevant and emotionally resonant with the audience.
