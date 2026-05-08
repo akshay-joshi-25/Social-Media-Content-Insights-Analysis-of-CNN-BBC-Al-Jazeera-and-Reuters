@@ -16,7 +16,7 @@ You can access the dataset by clicking [here](https://www.kaggle.com/datasets/ka
 
 # 🔧 **Tools Used**
 
-- **Python** was used to categorize each Facebook post for analysis.
+- **Python** was used to categorize each Facebook post for analysis and create some vizualizations.
 - **Excel** was used for data visualization and exploratory data analysis.
 
 # 🧾 **Categorization of the Dataset**
@@ -47,7 +47,7 @@ Because the dataset did not contain any categorical variables, any kind of cohor
 - *'Verdict', 'Guilty', 'Police'*, etc. were categorized as **Crime & Justice** posts.
 - The rest were categorized as **Other** posts.
 
-Upon implementing this methodology, I effectively segregated all Facebook posts of Al Jazeera, CNN, BBC News, and Reuters into 18 different categories.
+Upon implementing this methodology, I effectively categorized 80% all Facebook posts in the dataset. The remaining 20% posts which fell in the **Other** category were categorized manually by reviewing each Facebook post and understanding the context.
 
 You can access the Python code used for content categorization by clicking [here](https://github.com/akshay-joshi-25/Social-Media-Content-Insights-Analysis-of-CNN-BBC-Al-Jazeera-and-Reuters/blob/main/Categorization.ipynb)
 
