@@ -213,6 +213,8 @@ To shape content strategy and boost engagement, I strongly recommend prioritizin
 
 
 
-<img width="712" height="733" alt="image" src="https://github.com/user-attachments/assets/a8438b33-ea76-49f7-a34b-509687a2a216" />
+
+<img width="1000" height="828" alt="image" src="https://github.com/user-attachments/assets/ea09b363-ca1c-4db9-9d88-1acf0d1a8d79" />
+
 
 
