@@ -49,7 +49,7 @@ Because the dataset did not contain any categorical variables, any kind of cohor
 
 Upon implementing this methodology, I effectively categorized 80% all Facebook posts in the dataset. The remaining 20% posts which fell in the **Other** category were categorized manually by reviewing each Facebook post and understanding the context.
 
-You can access the Python code used for content categorization by clicking [here](https://github.com/akshay-joshi-25/Social-Media-Content-Insights-Analysis-of-CNN-BBC-Al-Jazeera-and-Reuters/blob/main/Categorization.ipynb)
+You can access the Python code used for content categorization & vizualization by clicking [here](https://github.com/akshay-joshi-25/Social-Media-Content-Insights-Analysis-of-CNN-BBC-Al-Jazeera-and-Reuters/blob/main/Categorization%20and%20Vizualization.ipynb)
 
 # 📈 **Content Insights Analysis**
 
