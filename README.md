@@ -270,5 +270,5 @@ To shape content strategy, I strongly recommend prioritizing content that will e
 **Recommendation #2**
 
 To boost content engagement on social media, I would recommend prioritizing two types of content:
- * **Conflict driven content** since numbers prove that controversy creates cash.
- * **Lifestyle, entertainment, and human focused content** — i.e., Arts, Culture, & Society, since they tend to be culturally relevant and emotionally resonant with the audience.
+ * **Conflict driven content**, especially since numbers prove that controversy creates cash.
+ * **Lifestyle, entertainment, and human focused content** — i.e., Arts, Culture, & Society, since they tend to be culturally relevant and more importantly, emotionally resonant with the audience.
