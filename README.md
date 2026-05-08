@@ -211,14 +211,59 @@ The above table compares Facebook performance across four news outlets using tot
 * **CNN** → Most engagement comes from entertainment, culture, and U.S. election based content
 * **Reuters** → Lowest engagement despite similar volume as its content is more neutral and doesn't strike a chord with the masses
 
-**Recommendation**
+**Recommendation #1**
 
 To shape content strategy and boost engagement, I strongly recommend prioritizing emotionally resonant content over simply increasing posting volume on social media. **Content (Quality) outweighs Volume (Quantity).**
 
-
-
+### Top Performing Topics across all Four News Channels by Engagement Score
 
 <img width="1000" height="828" alt="image" src="https://github.com/user-attachments/assets/ea09b363-ca1c-4db9-9d88-1acf0d1a8d79" />
 
+**How to interpret the chart**
 
+* The chart compares each topic’s **share of total Facebook posts** (grey dots) against its **share of total engagement score** (blue dots).
+* When the **blue dot is to the right** of the grey dot, the topic generates **more engagement than its posting volume would suggest** (overperforming).
+* When the **blue dot is to the left**, the topic receives **less engagement relative to how frequently it is posted** (underperforming).
 
+**Key Insights**
+
+* **Israel–Palestine Conflict** is the strongest engagement driver:
+
+  * Generates **~10 percentage points more engagement than posting share**, making it the most overperforming topic.
+  * Indicates audiences are highly responsive to conflict-related coverage.
+
+* **Arts, Culture & Society** also significantly overperforms:
+
+  * Delivers **~6pp more engagement than its share of posts**.
+  * Suggests strong audience interest in culturally relevant and emotionally resonant content.
+
+* **US Politics & Elections** moderately exceeds posting share:
+
+  * Engagement outpaces content volume by **~2pp**.
+  * Reinforces the strong engagement potential of political discourse.
+
+* **Health & Science** slightly overperforms:
+
+  * Receives marginally higher engagement relative to posting frequency.
+
+**Underperforming Topics**
+
+* **Technology** is the weakest engagement performer:
+
+  * Engagement trails posting share by **~4pp**.
+  * Suggests lower audience interaction despite relatively frequent coverage.
+
+* **Asia & Pacific**, **Europe**, **Crime & Justice**, and **Economy & Business** also underperform:
+
+  * These topics receive less engagement relative to publishing volume.
+  * Indicates informational topics may attract lower emotional engagement on social media.
+
+* **Russia–Ukraine War** and **Middle East & North Africa** perform roughly in line with posting share:
+
+  * Engagement is proportionate to content volume rather than exceptionally high or low.
+
+**Overall Takeaway**
+
+* Audience engagement is driven more by **emotionally charged and culturally relevant topics** than by publishing frequency alone.
+* Conflict coverage, arts & culture, and political content generate disproportionately high interaction, while informational or region-focused topics tend to underperform relative to posting volume.
+* The chart suggests that **content quality, emotional relevance, and audience resonance matter more than sheer posting quantity in driving engagement**.
