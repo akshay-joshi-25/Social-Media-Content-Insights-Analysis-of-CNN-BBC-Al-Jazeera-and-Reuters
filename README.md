@@ -193,7 +193,7 @@ The above table compares Facebook performance across four news outlets using tot
 
 * ~**1.16M total engagement** with a **more balanced posting strategy**
 * **Arts, Culture & Society** accounts for **30% of total engagement**, vs. 22% of posts, followed by **US Politics & Elections** which makes up **25% of total engagement** vs. 18% of posts
-* Indicates that CNN’s audience is more likely to engage with **entertainment, cultural, and U.S. election–related content than with war or conflict-related content**.
+* Indicates that CNN’s audience is more likely to engage with **entertainment, cultural, and U.S. election–related content** than with war or conflict-related content.
 
 **Reuters — Minimal Engagement Despite High Volume**
 
