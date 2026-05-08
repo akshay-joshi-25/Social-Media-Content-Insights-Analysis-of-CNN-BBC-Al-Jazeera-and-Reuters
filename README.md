@@ -55,7 +55,7 @@ You can access the Python code used for content categorization & vizualization b
 
 ### Facebook Posts by Topic — Al Jazeera, BBC, CNN & Reuters (Jan 1–Mar 15, 2024)
 
-<img width="1271" height="699" alt="image" src="https://github.com/user-attachments/assets/dddefba5-1439-4655-b6c9-e3c398341525" />
+<img width="1271" height="699" alt="image" src="https://github.com/user-attachments/assets/ba8ff0ca-5819-4fb7-862a-3a87bb36e65b" />
 
 **Overall Posting Volume**
 
@@ -166,7 +166,7 @@ The above table compares Facebook performance across four news outlets using tot
 
 ### Engagement Score by Topic — Al Jazeera, BBC, CNN & Reuters (Jan 1–Mar 15, 2024)
 
-<img width="1276" height="633" alt="image" src="https://github.com/user-attachments/assets/18ea2dd0-56d3-4466-ae33-0cc6bdfd741c" />
+<img width="1276" height="633" alt="image" src="https://github.com/user-attachments/assets/025db460-29c2-4c06-ba51-bef779f9f665" />
 
 **Al Jazeera — Conflict as the Core Engagement Driver**
 
