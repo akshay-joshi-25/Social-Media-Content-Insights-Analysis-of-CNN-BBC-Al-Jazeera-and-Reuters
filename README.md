@@ -70,20 +70,23 @@ You can access the Python code used for content categorization & vizualization b
 
 **Al Jazeera — Highly conflict-focused**
 
-* ~**52–55%** of content dedicated to the **Israel–Palestine conflict**
+* **53%** of content dedicated to the **Israel–Palestine conflict**
 * By far the **highest single-topic concentration** among all outlets
+* Coverage of other geopolitical issues such as the **Russia–Ukraine War** is also present, though significantly smaller in scale (only **7%** of content).
 * Demonstrates a **clear editorial priority and thematic focus**, positioning itself strongly around geopolitical conflict coverage, particularly Gaza.
 
 **BBC News — Broad, general-interest strategy**
 
-* ~**55–60%** of posts fall under **“Other”**, the largest category across all outlets
-* Likely includes **lifestyle, human interest, entertainment, and UK-focused domestic content**
-* Indicates a strategy focused on **maximizing mass engagement and accessibility**, rather than specializing in hard news topics
-* Additional presence in **Arts, Culture & Society** reinforces this pattern
+* Displays one of the widest topic spreads across all outlets.
+* **32%** of posts fall under **Arts, Culture & Society**, the second-largest category across all outlets
+* This category mostly includes **lifestyle, human interest, entertainment, and UK-focused domestic content**
+* Other major categories contributing to 8-10% of total posts are **Crime & Justice (10%)**, **Health & Science (9%)**, **Europe (8%)**, and **Climate & Environment (8%)**. 
+* This indicates a strategy focused on **balancing hard news with lighter or culturally relevant content**, rather than specializing in one specific topic like Al Jazeera.
 
 **CNN — Balanced and curated content mix**
 
-* Displays the **most even distribution across topics**, with no single dominant category
+* Displays a relatively more **even distribution across topics**, with no single category accounting to more than 25% of the total content volume.
+* That said, a stronger emphasis appears in the coverage of **Arts, Culture & Society (22%)**, and **US Politics and Elections (18%)** while topics like **Health & Science (9%)**, and **Technology (8%)** are given moderate coverage.
 * Covers a mix of **US politics, international conflicts, and arts/culture**
 * Lower posting volume (**753 posts**) suggests a **more selective, quality-over-quantity approach**
 * Strong engagement in commentary-heavy areas (e.g., politics) aligns with its audience profile
