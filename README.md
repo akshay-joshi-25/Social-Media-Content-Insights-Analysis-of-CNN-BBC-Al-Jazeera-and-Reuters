@@ -86,20 +86,23 @@ You can access the Python code used for content categorization & vizualization b
 **CNN — Balanced and curated content mix**
 
 * Displays a relatively more **even distribution across topics**, with no single category accounting to more than 25% of the total content volume.
-* That said, a stronger emphasis appears in the coverage of **Arts, Culture & Society (22%)**, and **US Politics and Elections (18%)** while topics like **Health & Science (9%)**, and **Technology (8%)** are given moderate coverage.
-* Covers a mix of **US politics, international conflicts, and arts/culture**
+* That said, a stronger emphasis appears in the coverage of **Arts, Culture & Society (22%)**, and **US Politics and Elections (18%)**.
+* Other topics like **Health & Science (9%)**, and **Technology (8%)** are given moderate coverage.
+* Indicates CNN's content strategy involves **blending US-centric political discourse with socio-culturally engaging content**
 * Lower posting volume (**753 posts**) suggests a **more selective, quality-over-quantity approach**
-* Strong engagement in commentary-heavy areas (e.g., politics) aligns with its audience profile
 
 **Reuters — Globally distributed, topic-diverse**
 
-* Coverage spread across **multiple regions (Europe, Asia, US, etc.) and themes (technology, politics, culture)**
-* Less emphasis on any single topic, including Israel–Palestine
-* Reflects its role as a **neutral, global wire service**, prioritizing **breadth and geographic balance** over depth in any one issue
+* Coverage is far more more evenly spread across **multiple regions (Europe, Asia, US, etc.) and themes (technology, politics, culture)**
+* No single topic accounts to more than 15% of the total coverage, reflecting Reuters’ role as a **global wire service rather than a commentary-driven publisher**.
+* Indicates Reuters' content strategy is centered on:
+  * neutrality,
+  * broad international coverage, and
+  * informational balance over emotional intensity
 
 **Israel–Palestine Coverage Comparison**
 
-* **Al Jazeera**: Dominant focus (**>50% of posts**)
+* **Al Jazeera**: Dominant focus (**53% of posts**)
 * **CNN & Reuters**: Moderate, proportionate coverage
 * **BBC News**: Relatively minimal emphasis
 * This contrast highlights **fundamentally different editorial priorities**, from conflict-centric to broadly diversified strategies
