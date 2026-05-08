@@ -176,8 +176,8 @@ The above table compares Facebook performance across four news outlets using tot
 
 **Al Jazeera — Conflict as the Core Engagement Driver**
 
-* ~**1.21M total engagement**, heavily concentrated in **Israel–Palestine content**
-* Conflict accounts for **~74% of total engagement**, vs. ~52% of posts
+* **1.21M total engagement**, heavily concentrated in **Israel–Palestine content**
+* Conflict accounts for **74% of total engagement**, vs. 53% of posts
 * Indicates **significantly higher engagement per post** for Gaza-related content
 * Demonstrates strong alignment between **editorial focus and audience interest**
 * Conflict coverage generates **disproportionate emotional reactions**, amplifying engagement
@@ -185,17 +185,15 @@ The above table compares Facebook performance across four news outlets using tot
 **BBC News — Scale Combined with Cultural Resonance**
 
 * Highest overall engagement: **1.31M**
-* **“Other” category** remains dominant, reflecting broad, general-interest content
-* However, **Arts, Culture & Society** clearly **over-indexes on engagement relative to volume**
-* Suggests BBC’s **lifestyle, entertainment, and human-interest content drives strong interaction**
-* Strategy balances **mass reach with high-performing niche content**
+* **Arts, Culture & Society** remains dominant accounting to **40% of total engagement**, vs. 32% of posts
+* **Health & Science** is a distant second accounting to **10% of total engagement**, vs. 9% of posts
+* Indicates BBC News’ **lifestyle, entertainment, and human-interest content strategy delivers strong interaction**
 
 **CNN — Entertainment Drives Engagement**
 
 * ~**1.16M total engagement** with a **more balanced posting strategy**
-* **US Politics & Elections** accounts for **24% of total engagement**, the largest share, followed by **Arts & Culture** (21%) and the **Other** category (20%).
-* Indicates that CNN’s audience engages more with **entertainment, cultural, and U.S. election–related content than with war- or conflict-related content**.
-* Reflects a **curated strategy where select topics generate outsized impact**
+* **Arts, Culture & Society** accounts for **30% of total engagement**, vs. 22% of posts, followed by **US Politics & Elections** which makes up **25% of total engagement** vs. 18% of posts
+* Indicates that CNN’s audience is more likely to engage with **entertainment, cultural, and U.S. election–related content than with war or conflict-related content**.
 
 **Reuters — Minimal Engagement Despite High Volume**
 
